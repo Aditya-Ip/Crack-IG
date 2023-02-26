@@ -1,19 +1,19 @@
-# PENGHAPUS-DATA
-sc/script penghapus data
+# Crack Ig free
+sc/script free crack ig
 # packages
 pkg update && pkg upgrade
 
 pkg install python
 
-rm -rf PENGHAPUS-DATA
+rm -rf Crack-IG 
 
-git clone https://github.com/Adtiya-Ip/PENGHAPUS-DATA
+git clone https://github.com/Adtiya-Ip/Crack-IG 
 
 git pull
 
-cd PENGHAPUS-DATA
+cd Crack-IG
 
-python penghapus-data.py
+python Ig.py
 
-# Kasih star🌟🌟🌟
-# yang kalian cari
+# love stars
+# Not pay
