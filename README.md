@@ -13,7 +13,7 @@ git pull
 
 cd Crack-IG
 
-python Ig.py
+python IG3.py
 
 # love stars
 # Not pay
