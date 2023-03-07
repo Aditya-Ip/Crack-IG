@@ -7,7 +7,7 @@ pkg install python
 
 rm -rf Crack-IG 
 
-git clone https://github.com/Adtiya-Ip/Crack-IG 
+git clone https://github.com/Aditya-Ip/Crack-IG
 
 git pull
 
